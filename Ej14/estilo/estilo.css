@@ -1,0 +1,28 @@
+body{
+    background-repeat: no-repeat;
+    background-image: url("img/pinguinos.jpeg");
+    background-position: center -75%;
+    width: 100%;
+    height: 100%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    
+}
+
+.amarillo{
+    background-color: #fff569;
+}
+
+th{
+    background-color: white;
+}
+
+table{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20%;
+    background-color: #fff569;
+}

@@ -1,0 +1,27 @@
+body{
+    color: #c76912;
+}
+
+.fondo{
+    background-image: url("img/fondo.png");
+    width: 5%;
+    height: 5%;
+}
+
+table, th, td {
+    width: 650px;
+    border: black solid 1px;
+    text-align: center;
+}
+
+.amarillo{
+    background-color: #fff478;
+}
+
+.verde{
+    background-color: #26a660;
+}
+
+.naranja{
+    background-color: bisque;
+}

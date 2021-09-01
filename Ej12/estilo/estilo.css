@@ -1,0 +1,19 @@
+table, th, td {
+    border: 3px solid skyblue;
+    border-collapse: collapse;
+    border-spacing: 0;
+    padding: 5px;
+}
+
+.cabecera{
+    color:#bcf7ad;
+    background-color: #486640;
+}
+
+tr{
+    background-color: #bcf7ad;
+}
+
+.intermedia{
+    background-color: #8eba82; /*fila del medio*/
+}

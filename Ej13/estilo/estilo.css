@@ -1,0 +1,31 @@
+table, th, td {
+    border: 1px solid black;
+    
+}
+
+.rojo{
+    color: red;
+}
+
+.verde{
+    background-color: #87ffa3;
+}
+
+.rosa{
+    background-color: #ff91f8;
+    text-align: end;
+    
+}
+
+table{
+    width: 100%;
+}
+
+.azul{
+    text-align: left;
+    background-color: #8cfff9;
+}
+
+caption{
+    font-weight: bold;
+}
